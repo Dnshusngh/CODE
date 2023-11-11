@@ -1,0 +1,715 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "07b76777",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "22\n",
+      "33\n"
+     ]
+    }
+   ],
+   "source": [
+    "def myfunc(n):\n",
+    "  return lambda a : a * n\n",
+    "\n",
+    "mydoubler = myfunc(2)\n",
+    "mytripler = myfunc(3)\n",
+    "\n",
+    "print(mydoubler(11))\n",
+    "print(mytripler(11))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "23a886be",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "33\n"
+     ]
+    }
+   ],
+   "source": [
+    "def myfunc(n):\n",
+    "  return lambda a : a * n\n",
+    "\n",
+    "mytripler = myfunc(3)\n",
+    "\n",
+    "print(mytripler(11))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "227d3c72",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "emty tuple \n",
+    "print emty tuole\n",
+    "int_tuple = [4 5 8 10 12 14]\n",
+    "print tuples with intergers\n",
+    "tuple = (python 4  9)\n",
+    "tuple "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e60f53fa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple  =[p ython orderns collasection]\n",
+    "print[0]\n",
+    "print[1]\n",
+    "try\n",
+    "printtuple [5]\n",
+    "expect excrise as e:\n",
+    "    print(e)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "19910e5a",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(1, 10)\n",
+      "8\n",
+      "6\n"
+     ]
+    }
+   ],
+   "source": [
+    "excent_tuple = (1, 10)\n",
+    "excent_tuple_as_e = excent_tuple\n",
+    "\n",
+    "print(excent_tuple_as_e)\n",
+    "\n",
+    "interest_tuple = [(4, 6, 2, 8), (6, 2, 6, 7)]\n",
+    "\n",
+    "print(interest_tuple[0][3])\n",
+    "print(interest_tuple[1][2])\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f82c74e1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple [python tuple orders collastion ]\n",
+    "print element at index tupe tuple[1]\n",
+    "print element between 4  and 2 are \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a31ff934",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "scling tuple how to progerms"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "48c94b2b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print  = entrrer tiuple_tuples"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7c8aa9e9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "indexing precitecing"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a33b7bee",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple[ pytho tuple ordernall immtable callotion object]\n",
+    "try \n",
+    "del tuple [3]\n",
+    "printtuple\n",
+    "expacter excange as e \n",
+    "try print (tuple)\n",
+    "except excationsa e\n",
+    "print"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "898b7ee1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple_[pyhthon tuples]\n",
+    "print ornginal tuples \n",
+    "tuple = tuple_*3\n",
+    "print new tuples is \"tuples\")i"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9916e292",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "creatin tuples \n",
+    "print cont count \n",
+    "print count of java. in 12res\n",
+    "print 12  count of java "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5e4e6b95",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple _ data \n",
+    "res +tuplle _data index of 3 \n",
+    "print tuple \n",
+    "res = tuple data index 3 4 \n",
+    "print first occorren of 1 after index ress"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ae46722f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print thuple in tuple \n",
+    "print tuple \n",
+    "print immuaterl\n",
+    "print items its not grt ]\n",
+    "in tuple not in tuple "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "545204c1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuples (python tuples orderd immuatabe ) \n",
+    "for item  in tuple_\n",
+    "print (items)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "05d124d5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuples python  orders immuatabel\n",
+    "prin t tuple +(4 5 6)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "5a3067a9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Days: {'Monday', 'Friday', 'Thursday', 'Tuesday', 'Wednesday'}\n",
+      "Type of 'Monday': <class 'str'>\n",
+      "Type of 'Friday': <class 'str'>\n",
+      "Type of 'Thursday': <class 'str'>\n",
+      "Type of 'Tuesday': <class 'str'>\n",
+      "Type of 'Wednesday': <class 'str'>\n"
+     ]
+    },
+    {
+     "ename": "TypeError",
+     "evalue": "unhashable type: 'set'",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[1;31mTypeError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[1;32mIn[3], line 5\u001b[0m\n\u001b[0;32m      3\u001b[0m \u001b[38;5;28;01mfor\u001b[39;00m day \u001b[38;5;129;01min\u001b[39;00m days:\n\u001b[0;32m      4\u001b[0m     \u001b[38;5;28mprint\u001b[39m(\u001b[38;5;124mf\u001b[39m\u001b[38;5;124m\"\u001b[39m\u001b[38;5;124mType of \u001b[39m\u001b[38;5;124m'\u001b[39m\u001b[38;5;132;01m{\u001b[39;00mday\u001b[38;5;132;01m}\u001b[39;00m\u001b[38;5;124m'\u001b[39m\u001b[38;5;124m: \u001b[39m\u001b[38;5;132;01m{\u001b[39;00m\u001b[38;5;28mtype\u001b[39m(day)\u001b[38;5;132;01m}\u001b[39;00m\u001b[38;5;124m\"\u001b[39m)\n\u001b[1;32m----> 5\u001b[0m set_of_sets \u001b[38;5;241m=\u001b[39m {\u001b[38;5;28mset\u001b[39m([\u001b[38;5;241m1\u001b[39m, \u001b[38;5;241m2\u001b[39m, \u001b[38;5;241m3\u001b[39m]), \u001b[38;5;28mset\u001b[39m([\u001b[38;5;241m4\u001b[39m, \u001b[38;5;241m5\u001b[39m, \u001b[38;5;241m6\u001b[39m]), \u001b[38;5;28mset\u001b[39m([\u001b[38;5;241m7\u001b[39m, \u001b[38;5;241m8\u001b[39m, \u001b[38;5;241m9\u001b[39m])}\n\u001b[0;32m      6\u001b[0m \u001b[38;5;28mprint\u001b[39m(\u001b[38;5;124m\"\u001b[39m\u001b[38;5;124mSet of Sets:\u001b[39m\u001b[38;5;124m\"\u001b[39m, set_of_sets)\n\u001b[0;32m      7\u001b[0m \u001b[38;5;28;01mfor\u001b[39;00m s \u001b[38;5;129;01min\u001b[39;00m set_of_sets:\n",
+      "\u001b[1;31mTypeError\u001b[0m: unhashable type: 'set'"
+     ]
+    }
+   ],
+   "source": [
+    "days = {'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'}\n",
+    "print(\"Days:\", days)\n",
+    "for day in days:\n",
+    "    print(f\"Type of '{day}': {type(day)}\")\n",
+    "set_of_sets = {set([1, 2, 3]), set([4, 5, 6]), set([7, 8, 9])}\n",
+    "print(\"Set of Sets:\", set_of_sets)\n",
+    "for s in set_of_sets:\n",
+    "    print(f\"Type of {s}: {type(s)}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2078bba5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print monthsadd  \n",
+    "print adding months to the set \n",
+    "print month add \\\n",
+    "print months \n",
+    "print for looping  for in months \n",
+    "print"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4fab763c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "months =  set [jan feb april march augs]\n",
+    "print "
+   ]
+  },
+  {
+   "cell_type": "raw",
+   "id": "d5e585cb",
+   "metadata": {},
+   "source": [
+    "discard remove \n",
+    "print month "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e75f5a94",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "months pop \n",
+    "print "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f38598d7",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print days 1  days 2 \n",
+    "unionsets (Sets 20.)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7b484a96",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print [days == Days3 ]\n",
+    "print [days<Days2]\n",
+    "print (Days > Days2)\n",
+    "\"(monday teusday wednesday thuraday\")\n",
+    "\"(monday tuseday \")\n",
+    "(\"monday teusday firday\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "33fb1f89",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[42  2  3  4  5]\n",
+      "[1 2 3 4 5]\n"
+     ]
+    }
+   ],
+   "source": [
+    "arr = np.array([1, 2, 3, 4, 5])\n",
+    "x = arr.copy()\n",
+    "arr[0] = 42\n",
+    "\n",
+    "print(arr)\n",
+    "print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "c625a4ed",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1\n",
+      "3\n",
+      "5\n",
+      "7\n"
+     ]
+    }
+   ],
+   "source": [
+    "arr = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])\n",
+    "\n",
+    "for x in np.nditer(arr[:, ::2]):\n",
+    "  print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "d9f83568",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[array([1, 2]), array([3, 4]), array([5]), array([6])]\n"
+     ]
+    }
+   ],
+   "source": [
+    "arr = np.array([1, 2, 3, 4, 5, 6])\n",
+    "\n",
+    "newarr = np.array_split(arr, 4)\n",
+    "\n",
+    "print(newarr)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "65bb3ba3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[5 7 5 7 5 3 5 7 3 7 7 7 7 7 7 3 5 3 5 7 7 7 7 7 7 7 7 7 3 7 7 7 7 7 5 3 7\n",
+      " 7 7 5 7 7 7 7 5 7 7 7 7 7 7 5 5 5 3 3 7 7 3 7 7 5 3 7 7 7 5 7 7 7 7 5 7 7\n",
+      " 5 5 3 7 3 7 7 5 7 7 5 7 7 3 5 7 7 5 3 5 7 7 7 3 7 3]\n"
+     ]
+    }
+   ],
+   "source": [
+    "from numpy import random\n",
+    "\n",
+    "x = random.choice([3, 5, 7, 9], p=[0.1, 0.3, 0.6, 0.0], size=(100))\n",
+    "\n",
+    "print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7de95808",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Using map() to square each element of the data list  \n",
+    "data = [1, 2, 3, 4, 5]  \n",
+    "  \n",
+    "# Map function returns the map object  \n",
+    "squares = map(lambda x: x*x, data)  \n",
+    "  \n",
+    "# Iterating the elements of the squares  \n",
+    "for i in squares:  \n",
+    "    print(i, end=\" \")  \n",
+    "  \n",
+    "# Also, we can convert the map object into a list  \n",
+    "squares = list(map(lambda x: x*x, data))  \n",
+    "print(f\"Squares: {squares}\")  \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "0f7dd26a",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid non-printable character U+00A0 (1162223891.py, line 3)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;36m  Cell \u001b[1;32mIn[3], line 3\u001b[1;36m\u001b[0m\n\u001b[1;33m    def add(x):\u001b[0m\n\u001b[1;37m       ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid non-printable character U+00A0\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Example of using higher-order functions in Python  \n",
+    "# Function that adds 1 to the passed value (x)  \n",
+    "def add(x):  \n",
+    "    return x + 1  \n",
+    "# Function that multiplies the passed value (x) by 2  \n",
+    "def multiply(x):  \n",
+    "    return x * 2  \n",
+    "# Function that applies another function on passed value (x)  \n",
+    "def apply(func, x):  \n",
+    "    return func(x)  \n",
+    "result1 = apply(add, 3)  # Result: 4  \n",
+    "result2 = apply(multiply, 3)  # Result: 6  \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "5e4b3bc4",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid non-printable character U+00A0 (1386544359.py, line 3)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;36m  Cell \u001b[1;32mIn[4], line 3\u001b[1;36m\u001b[0m\n\u001b[1;33m    add = lambda x: x + 1\u001b[0m\n\u001b[1;37m       ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid non-printable character U+00A0\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Example of using lambda functions in Python  \n",
+    "# Lambda function that adds 1 to x  \n",
+    "add = lambda x: x + 1  \n",
+    "  \n",
+    "# Lambda function that multiplies x by 2  \n",
+    "multiply = lambda x: x * 2  \n",
+    "  \n",
+    "result1 = add(3)  # Result: 4  \n",
+    "result2 = multiply(3)  # Result: 6  \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "439a9002",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid non-printable character U+00A0 (2880270392.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;36m  Cell \u001b[1;32mIn[5], line 2\u001b[1;36m\u001b[0m\n\u001b[1;33m    data = [1, 2, 3, 4, 5]\u001b[0m\n\u001b[1;37m        ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid non-printable character U+00A0\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Using map() to square each element of the data list  \n",
+    "data = [1, 2, 3, 4, 5]  \n",
+    "  \n",
+    "# Map function returns the map object  \n",
+    "squares = map(lambda x: x*x, data)  \n",
+    "  \n",
+    "# Iterating the elements of the squares  \n",
+    "for i in squares:  \n",
+    "    print(i, end=\" \")  \n",
+    "  \n",
+    "# Also, we can convert the map object into a list  \n",
+    "squares = list(map(lambda x: x*x, data))  \n",
+    "print(f\"Squares: {squares}\")  \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ab2e7d1b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Examples to understand the reduce() function  \n",
+    "from functools import reduce  \n",
+    "# Function that returns the sum of two numbers  \n",
+    "def add(a, b):  \n",
+    "    return a + b  \n",
+    "# Our Iterable  \n",
+    "num_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  \n",
+    "# add function is passed as the first argument, and num_list is passed as the second argument  \n",
+    "sum = reduce(add, num_list)  \n",
+    "print(f\"Sum of the integers of num_list : {sum}\")  \n",
+    "# Passing 10 as an initial value  \n",
+    "sum = reduce(add, num_list, 10)  \n",
+    "print(f\"Sum of the integers of num_list with initial value 10 : {sum}\")  \n",
+    "\u000b",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d9f6a6c1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Importing reduce function from the functools module  \n",
+    "from functools import reduce  \n",
+    "# A list containing some integers  \n",
+    "num = [20, 22, 24, 12, 6, 88, 10, 55, 66]  \n",
+    "\"\"\" Method 1 - Using simple function \"\"\"  \n",
+    "# Function that returns the largest of x and y  \n",
+    "def large(x, y):  \n",
+    "    return x if x > y else y  \n",
+    "# Using reduce to find the largest of all and printing the result  \n",
+    "largest = reduce(large, num)  \n",
+    "print(f\"Largest found with method 1: {largest}\")  \n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "cdb33d2f",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid non-printable character U+00A0 (3480868739.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;36m  Cell \u001b[1;32mIn[6], line 2\u001b[1;36m\u001b[0m\n\u001b[1;33m    '''pass acts as a placeholder. We can fill this place later on'''\u001b[0m\n\u001b[1;37m                                                                     ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid non-printable character U+00A0\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Python program to show how to use a pass statement in a for loop  \n",
+    "'''pass acts as a placeholder. We can fill this place later on'''  \n",
+    "sequence = {\"Python\", \"Pass\", \"Statement\", \"Placeholder\"}  \n",
+    "for value in sequence:  \n",
+    "    if value == \"Pass\":  \n",
+    "        pass # leaving an empty if block using the pass keyword  \n",
+    "    else:  \n",
+    "        print(\"Not reached pass keyword: \", value)  \n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0e376c67",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Days = set([\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\"])    \n",
+    "print(Days)    \n",
+    "print(type(Days))    \n",
+    "print(\"looping through the set elements ... \")    \n",
+    "for i in Days:    \n",
+    "    print(i) \n",
+    "# Empty curly braces will create dictionary  \n",
+    "set3 = {}  \n",
+    "print(type(set3))  \n",
+    "# Empty set using set() function  \n",
+    "set4 = set()  \n",
+    "print(type(set4))  \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "439d9dcb",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Days1 = {\"Monday\",  \"Tuesday\", \"Wednesday\", \"Thursday\"}    \n",
+    "Days2 = {\"Monday\", \"Tuesday\", \"Sunday\"}    \n",
+    "print(Days1-Days2) #{\"Wednesday\", \"Thursday\" will be printed}    \n",
+    "\n",
+    "#Or\n",
+    "\n",
+    "Days1 = {\"Monday\",  \"Tuesday\", \"Wednesday\", \"Thursday\"}    \n",
+    "Days2 = {\"Monday\", \"Tuesday\", \"Sunday\"}    \n",
+    "print(Days1.difference(Days2)) # prints the difference of the two sets Days1 and Days2    \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e6c11aa9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Days1 = {\"Monday\",  \"Tuesday\", \"Wednesday\", \"Thursday\"}    \n",
+    "Days2 = {\"Monday\", \"Tuesday\", \"Sunday\"}    \n",
+    "print(Days1-Days2) #{\"Wednesday\", \"Thursday\" will be printed}    \n",
+    "\n",
+    "#Or\n",
+    "\n",
+    "Days1 = {\"Monday\",  \"Tuesday\", \"Wednesday\", \"Thursday\"}    \n",
+    "Days2 = {\"Monday\", \"Tuesday\", \"Sunday\"}    \n",
+    "print(Days1.difference(Days2)) # prints the difference of the two sets Days1 and Days2    \n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
